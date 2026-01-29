@@ -1,0 +1,5 @@
+{
+  "name": "Web Video Trimmer",
+  "description": "High-performance in-browser video editor leveraging hardware acceleration for lightning-fast trimming and exporting.",
+  "requestFramePermissions": []
+}
