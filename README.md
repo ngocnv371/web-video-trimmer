@@ -31,9 +31,11 @@ A high-performance, browser-based video editing tool leveraging **GPU hardware a
 ## 📖 How to Use
 
 1. **Upload**: Drag and drop or click the picker to select a video file (MP4, MOV, WEBM).
+![demo 0](docs/demo0.png)
 2. **Trim**: 
    - Drag the indigo handles on the timeline to set your range.
    - Or, type specific start/end times in the manual input boxes for millisecond precision.
+   ![demo 1](docs/demo1.png)
 3. **Preview**: Use the **Play** button or `Spacebar` to review your selection.
 4. **Export**: Select your preferred codec and click **Export Clip**.
 5. **Download**: Once the GPU finishes baking the video, click the download button to save your trimmed `.webm` file.
